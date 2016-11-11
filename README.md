@@ -16,3 +16,12 @@
 - python
 - jupyter notebook (depends on python and reverse proxy)
 
+### provisioning
+- Ansible
+- Docker?
+- Vagrant?
+
+### documentation
+- Architectural overview
+- Requirements
+- Example setup
